@@ -12,5 +12,8 @@
     "backend"
   ],
   "author": "Abdul Rauf",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "3.2.5"
+  }
 }
